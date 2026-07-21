@@ -1,0 +1,29 @@
+2026-07-19 12:59:19,268 | INFO     | ✓ Modèle 'en_core_web_sm' disponible
+2026-07-19 12:59:19,269 | INFO     | ✓ Config écrit dans config.cfg
+2026-07-19 12:59:19,269 | INFO     | 🚀 Entraînement lancé...
+2026-07-19 13:02:33,907 | INFO     | ✓ Modèle 'en_core_web_sm' disponible
+2026-07-19 13:02:33,907 | INFO     | ✓ Config écrit dans config.cfg
+2026-07-19 13:02:33,907 | INFO     | 🚀 Entraînement lancé...
+2026-07-19 13:03:54,234 | INFO     | ✓ Modèle 'en_core_web_sm' disponible
+2026-07-19 13:03:54,234 | INFO     | ✓ Config écrit dans config.cfg
+2026-07-19 13:03:54,234 | INFO     | 🚀 Entraînement lancé...
+2026-07-19 13:07:06,428 | INFO     | ✓ Modèle 'en_core_web_sm' disponible
+2026-07-19 13:07:07,352 | INFO     | ✓ Config écrit dans config.cfg
+2026-07-19 13:07:07,352 | INFO     | 🚀 Entraînement lancé...
+2026-07-19 13:07:10,345 | INFO     | ✅ Modèle sauvegardé dans output/model-best
+2026-07-19 13:07:12,947 | INFO     | 
+📊 Scores par label :
+2026-07-19 13:07:12,947 | INFO     |   WEAPON       P=0.000  R=0.000  F1=0.000
+2026-07-19 13:07:12,947 | INFO     |   MIL_UNIT     P=0.000  R=0.000  F1=0.000
+2026-07-19 13:07:12,948 | INFO     |   MIL_ORG      P=0.000  R=0.000  F1=0.000
+2026-07-19 13:07:12,948 | INFO     |   OVERALL      F1=0.000
+2026-07-19 13:10:03,861 | INFO     | ✓ Modèle 'en_core_web_sm' disponible
+2026-07-19 13:10:04,655 | INFO     | ✓ Config écrit dans config.cfg
+2026-07-19 13:10:04,656 | INFO     | 🚀 Entraînement lancé...
+2026-07-19 13:14:36,550 | INFO     | ✅ Modèle sauvegardé dans output/model-best
+2026-07-19 13:14:39,179 | INFO     | 
+📊 Scores par label :
+2026-07-19 13:14:39,179 | INFO     |   WEAPON       P=0.714  R=0.625  F1=0.667
+2026-07-19 13:14:39,179 | INFO     |   MIL_UNIT     P=0.000  R=0.000  F1=0.000
+2026-07-19 13:14:39,179 | INFO     |   MIL_ORG      P=0.828  R=0.878  F1=0.852
+2026-07-19 13:14:39,179 | INFO     |   OVERALL      F1=0.794
